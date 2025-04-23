@@ -1,3 +1,6 @@
+后端项目地址：https://github.com/Figersec/spring-ai-demo.git
+请求地址改成自己实际接口
+
 # ai-demo-web
 
 ## Project setup
@@ -24,4 +27,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-后端接口地址改成自己的
+
